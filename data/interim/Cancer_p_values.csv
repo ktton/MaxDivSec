@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Cancer,0.5,274
+Cancer,0.25,137
+Cancer,0.125,69

@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Mammographic,0.5,332
+Mammographic,0.25,166
+Mammographic,0.125,83

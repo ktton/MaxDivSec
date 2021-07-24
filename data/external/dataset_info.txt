@@ -1,0 +1,10 @@
+4.65h Iris - Class: 3, Attributs: 4, Instances: 150
+6.3h Wine - Class: 3, Attributs: 13, Instances: 178
+9.3h Seed - Class: 3, Attributs: 7, Instances: 210
+32h Leaf - Class: 30, Attributs: 15, Instances: 340
+9.3h Ionosphere - Class: 2, Attributs: 34, Instances: 351
+15.5h Cancer - Class: 2, Attributs: 9, Instances: 683
+36.05h Yeast - Class: 10, Attributs: 8, Instances: 1484
+40.6h Wine_quality - Class: 6, Attributs: 11, Instances: 1599
+134.2h Abalone - Class: 28, Attributs: 7, Instances: 4177
+Adult - Class: 2, Attributs: 47, Instances: 46033

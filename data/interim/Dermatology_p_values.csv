@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Dermatology,0.5,144
+Dermatology,0.25,72
+Dermatology,0.125,36

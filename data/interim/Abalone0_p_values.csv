@@ -1,0 +1,4 @@
+Dataset,p,Training size,Total
+Abalone0,0.5,1671,3342
+Abalone0,0.25,836,3342
+Abalone0,0.125,418,3342

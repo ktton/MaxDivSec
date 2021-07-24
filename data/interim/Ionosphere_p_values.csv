@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Ionosphere,0.5,141
+Ionosphere,0.25,71
+Ionosphere,0.125,36

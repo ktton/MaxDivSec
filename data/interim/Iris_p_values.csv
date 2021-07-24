@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Iris,0.5,60
+Iris,0.25,30
+Iris,0.125,15

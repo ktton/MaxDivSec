@@ -1,0 +1,4 @@
+Dataset,p,Training size
+Synthetic_selection,0.5,40
+Synthetic_selection,0.25,20
+Synthetic_selection,0.125,10
